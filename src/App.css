@@ -1,0 +1,75 @@
+.torta1{
+  width: 50px;
+  height: 50px;
+}
+
+.tortaprin{
+  width: 280px;
+  height: 220px;
+}
+.tortaprin2{
+  width: 280px;
+  height: 220px;
+}
+.tortaprin3{
+  width: 280px;
+  height: 220px;
+}
+.tortaprin4{
+  width: 280px;
+  height: 220px;
+}
+.tortaprin5{
+  width: 280px;
+  height: 220px;
+}
+.tortaprin6{
+  width: 280px;
+  height: 220px;
+}
+.tortas1{
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+}
+.tortas2{
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+}
+.tipo{
+ text-align: center;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-size: 18px;
+}
+.home{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navbar{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.contacto{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+}
+#correo{
+  width: 50vw;
+}
+#solicitud{
+  width: 50vw;
+}
+.happy{
+  margin-right: 900px;
+}
+.tortafinal{
+  width: 300px;
+  width: 280px;
+}
